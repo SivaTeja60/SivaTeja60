@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Siva Teja</h1>
+<!--![MasterHead](https://cutewallpaper.org/23/web-development-wallpaper-hd/be-your-full-stack-web-developer-and-build-your-complete-website-by-pratim440-fiverr.png)-->
+<h1 align="center">Hola! 👋, I'm Siva Teja</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivateja60&label=Profile%20views&color=0e75b6&style=flat" alt="sivateja60" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivateja60" alt="sivateja60" /></a> </p>
 
 - 🔭 I’m currently working on **React Projects**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Projects and RPA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SivaTeja60](https://github.com/SivaTeja60)
+<!--- 👨‍💻 All of my projects are available at [https://github.com/SivaTeja60](https://github.com/SivaTeja60) -->
 
 - 💬 Ask me about **HTML, CSS & RPA**
 
