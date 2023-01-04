@@ -13,7 +13,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://github.com/SivaTeja60](https://github.com/SivaTeja60) -->
 
-- 💬 Ask me about **HTML, CSS & RPA**
+- 💬 Ask me about **HTML, CSS, JavaScript & RPA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
