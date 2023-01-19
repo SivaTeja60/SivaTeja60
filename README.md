@@ -11,7 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Web Projects and RPA**
 
-<!--- 👨‍💻 All of my projects are available at [https://github.com/SivaTeja60](https://github.com/SivaTeja60) -->
+
+- 👨‍💻 All of my projects are available at [https://github.com/SivaTeja60](https://github.com/SivaTeja60)
+
 
 - 💬 Ask me about **HTML, CSS, JavaScript & RPA**
 
