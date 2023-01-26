@@ -1,6 +1,6 @@
 <!--![MasterHead](https://cutewallpaper.org/23/web-development-wallpaper-hd/be-your-full-stack-web-developer-and-build-your-complete-website-by-pratim440-fiverr.png)-->
 <h1 align="center">Hola! 👋, I'm Siva Teja</h1>
-<h3 align="center">A passionate frontend developer and Experienced RPA Developer</h3>
+<h3 align="center">A Software Developer with a passion for Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivateja60&label=Profile%20views&color=0e75b6&style=flat" alt="sivateja60" /> </p>
